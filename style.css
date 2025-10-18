@@ -1,0 +1,30 @@
+body{
+    padding: 100px;
+}
+.submit-area{
+    box-shadow: 5px 5px 10px gray ;
+    padding: 50px;
+    border-radius: 20px;
+}
+.deposit{
+    background-color: slateblue;
+}
+.withdraw{
+    background-color: tomato;
+}
+.balance{
+    background-color: orange;
+}
+.commmon{
+   border-radius: 20px; 
+   padding: 20px;
+   color: white;
+}
+.depo-withdraw-common{
+    box-shadow: 5px 5px 10px gray ;
+    padding: 30px;
+    border-radius: 20px;
+}
+#dashboard{
+    display: none;
+}
