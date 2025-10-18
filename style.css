@@ -1,10 +1,15 @@
-body{
-    padding: 100px;
+.area-style{
+    margin: 80px;
 }
-.submit-area{
-    box-shadow: 5px 5px 10px gray ;
-    padding: 50px;
+#login-area,.transtyle{
+    box-shadow: 10px 10px 40px lightgrey;
+    padding: 40px 30px;
     border-radius: 20px;
+}
+.status{
+    border-radius: 20px;
+    color: white;
+    padding: 20px 0px;
 }
 .deposit{
     background-color: slateblue;
@@ -15,16 +20,6 @@ body{
 .balance{
     background-color: orange;
 }
-.commmon{
-   border-radius: 20px; 
-   padding: 20px;
-   color: white;
-}
-.depo-withdraw-common{
-    box-shadow: 5px 5px 10px gray ;
-    padding: 30px;
-    border-radius: 20px;
-}
-#dashboard{
+#dashboard-area{
     display: none;
 }
